@@ -12,7 +12,7 @@ const { createApp } = Vue
         disponibilidad:"",
         correo:"",
         imagen:"",
-        url:'http://1nterandopa.pythonanywhere.com/candidatos/'+id,
+        url:'https://1nterandopa.pythonanywhere.com/candidatos/'+id,
    
        }  
     },
