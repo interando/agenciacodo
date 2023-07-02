@@ -36,6 +36,7 @@ document.getElementById('footer').innerHTML = `
 
   <ul class="nav col-md-4 justify-content-end">
     <li class="nav-item text-primary">Germán Brüel</li>
+    <li class="nav-item text-primary">Marta Levalle</li>
   
   </ul>
 </div>
