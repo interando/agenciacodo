@@ -1,0 +1,14 @@
+body{background-color: #ffffff;!important}
+li.nav-item a {
+    color: #ffffffe6!important;
+}
+.dropdown-menu li.dropdown-item a {
+    color: #000000!important;
+}
+.dropdown-menu.show {
+    background-color: #135dcb!important;
+}
+.dropdown-item:focus, .dropdown-item:hover {
+    color: #ffffff!important;
+    background-color: #468cf5!important;
+}
