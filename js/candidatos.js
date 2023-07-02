@@ -5,7 +5,7 @@ const { createApp } = Vue
         candidatos:[],
         //url:'http://localhost:5000/productos', 
    // si el backend esta corriendo local  usar localhost 5000(si no lo subieron a pythonanywhere)
-        url:'http://1nterandopa.pythonanywhere.com/candidatos',   // si ya lo subieron a pythonanywhere
+        url:'https://1nterandopa.pythonanywhere.com/candidatos',   // si ya lo subieron a pythonanywhere
         error:false,
         cargando:true,
         disponible:true,
