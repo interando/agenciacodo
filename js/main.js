@@ -35,8 +35,7 @@ document.getElementById('footer').innerHTML = `
   </p>
 
   <ul class="nav col-md-4 justify-content-end">
-    <li class="nav-item text-primary">Germán Brüel</li>
-    <li class="nav-item text-primary">Marta Levalle</li>
+    <li class="nav-item text-primary">Grupo 16: Germán Brüel | Marta Levalle</li>
   
   </ul>
 </div>
