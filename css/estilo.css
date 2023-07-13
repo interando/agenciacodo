@@ -12,3 +12,9 @@ li.nav-item a {
     color: #ffffff!important;
     background-color: #468cf5!important;
 }
+#grid { 
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 1vw;
+    }
